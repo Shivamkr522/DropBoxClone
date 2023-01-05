@@ -1,0 +1,16 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIAW6FN44YYVOINKZIH
+      secret-key: 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
+    region:
+      static: ap-south-1
+    stack:
+      auto: false
+
+application:
+  bucket:
+    name: dropboxcontainer
+
+server:
+  port: 9090
